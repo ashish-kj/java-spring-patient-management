@@ -3,8 +3,8 @@ POST http://localhost:4000/patients
 Content-Type: application/json
 
 {
-  "name": "Tester GRPC",
-  "email": "tester@test.com",
+  "name": "Kafka GRPC",
+  "email": "testerkafka@test.com",
   "address": "Mountain View, CA",
   "dateOfBirth": "2000-08-21",
   "registeredDate": "2025-03-08"
